@@ -1,5 +1,5 @@
 # React Portfolio
-![React Portfolio](src\assets\cover\ReactPortfolioImage.png) 
+![React Portfolio](src/assets/cover/ReactPortfolioImage.png) 
 
 ## Table of Contents
 * [React Portfolio](#React-Portfolio)
