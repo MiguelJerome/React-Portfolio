@@ -23,7 +23,7 @@ NPM package requires for this project are :
 
 ## Contribution Guidelines
 * This is a final product that is ready to be used.
-* [React Portfolio Git Hub](https://github.com/MiguelJerome/text-editor-new)
+* [React Portfolio Git Hub](https://github.com/MiguelJerome/React-Portfolio)
 
 ## Test Instructions
 * This React Portfolio works is also ready to be used.
